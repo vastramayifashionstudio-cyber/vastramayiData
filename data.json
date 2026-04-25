@@ -59,6 +59,43 @@
         "image": "https://images.pexels.com/photos/10836470/pexels-photo-10836470.jpeg",
         "description": "Custom blouse"
       }
+    ],
+     "partyCollections": [
+    {
+      "id": 1,
+      "title": "Gown",
+      "slug": "gown",
+      "price": "Starting from ₹45,000",
+      "image": "https://images.pexels.com/photos/2917593/pexels-photo-2917593.jpeg",
+      "description": "Elegant evening gowns"
+    },
+    {
+      "id": 2,
+      "title": "Drape Saree",
+      "slug": "drape-saree",
+      "price": "Starting from ₹25,000",
+      "image": "https://images.pexels.com/photos/1926620/pexels-photo-1926620.jpeg",
+      "description": "Modern pre-draped sarees"
+    }
+  ],
+  "partyItems": {
+    "gown": [
+      {
+        "id": 1,
+        "title": "Emerald Velvet Gown",
+        "price": "₹45,000",
+        "image": "https://images.pexels.com/photos/2917593/pexels-photo-2917593.jpeg",
+        "description": "Luxurious velvet gown with sequin details"
+      }
+    ],
+    "drape-saree": [
+      {
+        "id": 2,
+        "title": "Midnight Blue Drape",
+        "price": "₹25,000",
+        "image": "https://images.pexels.com/photos/1926620/pexels-photo-1926620.jpeg",
+        "description": "Ready to wear party saree"
+      }
     ]
   }
 }
