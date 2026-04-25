@@ -15,6 +15,14 @@
       "price": "Starting from ₹8,000",
       "image": "https://lh3.googleusercontent.com/d/1NS-QU5lj8XfIrmx_fEb1LginNuiTDrab",
       "description": "Explore designer blouses"
+    },
+    {
+      "id": 3,
+      "title": "Bra",
+      "slug": "bra",
+      "price": "Starting from ₹8,000",
+      "image": "https://lh3.googleusercontent.com/d/1NS-QU5lj8XfIrmx_fEb1LginNuiTDrab",
+      "description": "Explore designer bras"
     }
   ],
   "bridalItems": {
