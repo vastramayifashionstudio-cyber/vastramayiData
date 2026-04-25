@@ -43,6 +43,22 @@
         "image": "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg",
         "description": "Custom blouse"
       }
+    ],
+    "bra": [
+      {
+        "id": 3,
+        "title": "Designer Bra",
+        "price": "₹8,000",
+        "image": "https://images.pexels.com/photos/32829549/pexels-photo-32829549.jpeg",
+        "description": "Custom blouse"
+      },
+      {
+        "id": 4,
+        "title": "Designer Bra",
+        "price": "₹8,000",
+        "image": "https://images.pexels.com/photos/10836470/pexels-photo-10836470.jpeg",
+        "description": "Custom blouse"
+      }
     ]
   }
 }
