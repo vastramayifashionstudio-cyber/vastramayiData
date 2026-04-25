@@ -59,8 +59,9 @@
         "image": "https://images.pexels.com/photos/10836470/pexels-photo-10836470.jpeg",
         "description": "Custom blouse"
       }
-    ],
-     "partyCollections": [
+    ]
+  },
+  "partyCollections": [
     {
       "id": 1,
       "title": "Gown",
