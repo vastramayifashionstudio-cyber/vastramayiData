@@ -1,0 +1,40 @@
+{
+  "bridalCollections": [
+    {
+      "id": 1,
+      "title": "Lehenga",
+      "slug": "lehenga",
+      "price": "Starting from ₹85,000",
+      "image": "https://lh3.googleusercontent.com/d/1NS-QU5lj8XfIrmx_fEb1LginNuiTDrab",
+      "description": "Explore bridal lehengas"
+    },
+    {
+      "id": 2,
+      "title": "Blouse",
+      "slug": "blouse",
+      "price": "Starting from ₹8,000",
+      "image": "https://lh3.googleusercontent.com/d/1NS-QU5lj8XfIrmx_fEb1LginNuiTDrab",
+      "description": "Explore designer blouses"
+    }
+  ],
+  "bridalItems": {
+    "lehenga": [
+      {
+        "id": 1,
+        "title": "Royal Red Lehenga",
+        "price": "₹85,000",
+        "image": "https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg",
+        "description": "Heavy bridal lehenga with embroidery"
+      }
+    ],
+    "blouse": [
+      {
+        "id": 2,
+        "title": "Designer Blouse",
+        "price": "₹8,000",
+        "image": "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg",
+        "description": "Custom blouse"
+      }
+    ]
+  }
+}
