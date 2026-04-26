@@ -77,6 +77,14 @@
       "price": "Starting from ₹25,000",
       "image": "https://images.pexels.com/photos/1926620/pexels-photo-1926620.jpeg",
       "description": "Modern pre-draped sarees"
+    },
+    {
+      "id": 3,
+      "title": "Premium Suits",
+      "slug": "premium-suits",
+      "price": "Starting from ₹25,000",
+      "image": "https://images.pexels.com/photos/1926620/pexels-photo-1926620.jpeg",
+      "description": "Modern pre-draped sarees"
     }
   ],
   "partyItems": {
@@ -96,6 +104,15 @@
         "price": "₹25,000",
         "image": "https://images.pexels.com/photos/1926620/pexels-photo-1926620.jpeg",
         "description": "Ready to wear party saree"
+      }
+    ],
+    "premium-suits": [
+      {
+        "id": 3,
+        "title": "Midnight Blue Suit",
+        "price": "₹25,000",
+        "image": "https://images.pexels.com/photos/1926620/pexels-photo-1926620.jpeg",
+        "description": "Ready to wear party suit"
       }
     ]
   }
